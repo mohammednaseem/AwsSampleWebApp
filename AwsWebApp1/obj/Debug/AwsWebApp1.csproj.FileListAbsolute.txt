@@ -12,3 +12,17 @@ c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\bin\
 c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\obj\Debug\AwsWebApp1.csprojResolveAssemblyReference.cache
 c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\obj\Debug\AwsWebApp1.dll
 c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\obj\Debug\AwsWebApp1.pdb
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\bin\AwsWebApp1.dll.config
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\bin\AwsWebApp1.dll
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\bin\AwsWebApp1.pdb
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\bin\AWSSDK.Core.dll
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\bin\AWSSDK.EC2.dll
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\bin\AWSSDK.S3.dll
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\bin\AWSSDK.SimpleDB.dll
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\bin\AWSSDK.Core.xml
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\bin\AWSSDK.EC2.xml
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\bin\AWSSDK.S3.xml
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\bin\AWSSDK.SimpleDB.xml
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\obj\Debug\AwsWebApp1.csprojResolveAssemblyReference.cache
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\obj\Debug\AwsWebApp1.dll
+C:\Users\naseem\Documents\GitHub\AwsWebApp1\AwsSampleWebApp\AwsWebApp1\obj\Debug\AwsWebApp1.pdb
