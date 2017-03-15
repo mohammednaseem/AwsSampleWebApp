@@ -1,0 +1,14 @@
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\bin\AwsWebApp1.dll.config
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\bin\AwsWebApp1.dll
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\bin\AwsWebApp1.pdb
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\bin\AWSSDK.Core.dll
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\bin\AWSSDK.EC2.dll
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\bin\AWSSDK.S3.dll
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\bin\AWSSDK.SimpleDB.dll
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\bin\AWSSDK.Core.xml
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\bin\AWSSDK.EC2.xml
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\bin\AWSSDK.S3.xml
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\bin\AWSSDK.SimpleDB.xml
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\obj\Debug\AwsWebApp1.csprojResolveAssemblyReference.cache
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\obj\Debug\AwsWebApp1.dll
+c:\users\naseem\documents\visual studio 2015\Projects\AwsWebApp1\AwsWebApp1\obj\Debug\AwsWebApp1.pdb
